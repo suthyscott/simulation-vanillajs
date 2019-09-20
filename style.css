@@ -1,0 +1,71 @@
+
+
+header {
+    background-color: #424249;
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.piggy-icon {
+    position: relative;
+    left: 20px;
+
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+    position: relative;
+    right: 280px;
+}
+
+.budget-total {
+    font-size: 30px;
+    color: white;
+    position: relative;
+    right: 40px;
+}
+
+div {
+    background-color: #FFFDFC;
+    height: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.left-box {
+    background-color: #EFE8E1;
+    height: 250px;
+    width: 500px;
+    margin: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.right-box {
+    background-color: #54D2E5;
+    height: 350px;
+    width: 500px;
+    margin: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    background-color: #424249;
+    width: 400px; 
+    height: 40px;
+}
+
+.box-titles {
+    font-size: 21px;
+    color: #424249;
+    display: flex;    
+}
+
